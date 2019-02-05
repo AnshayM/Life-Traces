@@ -35,6 +35,7 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 大黄蜂 Bumblebee (2018) [美]，2019年2月
 1. 心灵捕手 Good Will Hunting (1997) [美]，2019年1月
 1. 钢琴家 The Pianist (2002) [波兰]，2019年1月
 1. 幽灵公主 もののけ姫 (1997) [日]，2019年1月
