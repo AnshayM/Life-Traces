@@ -35,6 +35,8 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 搏击俱乐部 Fight Club (1999) [美]，2019年2月
+1. 流浪地球‎ (2019)，2019年2月
 1. 大黄蜂 Bumblebee (2018) [美]，2019年2月
 1. 心灵捕手 Good Will Hunting (1997) [美]，2019年1月
 1. 钢琴家 The Pianist (2002) [波兰]，2019年1月
