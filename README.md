@@ -170,6 +170,7 @@
 ## 电视剧
     Name-ReleaseDate-Nation-WatchDate-(Time)
     
+1. 风骚律师 第一季 Better Call Saul Season 1 (2015) [美]，2018年1月
 1. 马男波杰克 第五季 BoJack Horseman Season 5 (2018) [美]，2017年10月
 1. 进击的巨人 第三季 Part.1 進撃の巨人 Season3 Part.1 (2018) [日]，2018年8月
 1. 绝命毒师 第五季 Breaking Bad Season 5 (2012) [美]，2018年8月
