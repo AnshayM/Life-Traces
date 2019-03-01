@@ -36,8 +36,9 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. :+1:虎口脱险 La grande vadrouille (1966) [法]，2019年二月
 1. 搏击俱乐部 Fight Club (1999) [美]，2019年2月
-1. 流浪地球‎ (2019)，2019年2月
+1. :+1:流浪地球‎ (2019)，2019年2月
 1. 大黄蜂 Bumblebee (2018) [美]，2019年2月
 1. 心灵捕手 Good Will Hunting (1997) [美]，2019年1月
 1. 钢琴家 The Pianist (2002) [波兰]，2019年1月
@@ -51,7 +52,7 @@
 1. 海王 Aquaman (2018) [美]，2018年12月
 1. :+1:情书 Love Letter (1995) [日]，2018年12月
 1. 银翼杀手 Blade Runner (1982) [美]，2018年12月
-1. :+1:成为约翰·马尔科维奇 Being John Malkovich (1999) [美]，2018年11月
+1. 成为约翰·马尔科维奇 Being John Malkovich (1999) [美]，2018年11月
 1. 邪不压正 (2018)，2018年11月
 1. 无敌破坏王2：大闹互联网 Ralph Breaks the Internet (2018) [美]，2018年11月
 1. 神奇动物：格林德沃之罪 Fantastic Beasts: The Crimes of Grindelwald (2018) [美]，2018年11月
