@@ -37,6 +37,7 @@
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
 1. :x:反贪风暴3 L風暴 (2018),2018年3月
+1. 惊奇队长 Captain Marvel (2019)[美]，2019年3月
 1. 暖暖内含光 Eternal Sunshine of the Spotless Mind (2004) [美]，2019年3月
 1. 逃学威龙3之龙过鸡年 逃學威龍III之龍過雞年 (1993),2019年3月
 1. 逃学威龙2 逃學威龍2 (1992)，2019年3月(Xth)
