@@ -36,6 +36,8 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 飞驰人生 (2019),2019年4月    
+1. 荒岛余生 Cast Away (2000) [美],2019年4月
 1. 复仇者联盟4：终局之战 Avengers: Endgame (2019) [美],2019年4月
 1. 最终幻想15：王者之剑 Kingsglaive Final Fantasy XV (2016) [日],2019年4月
 1. 阿薇尔与虚构世界 Avril et le monde truqué‎ (2015) [法],2019年4月
