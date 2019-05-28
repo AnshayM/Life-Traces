@@ -37,7 +37,8 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
-1. :x:疯狂的外星人 (2019),2019年5月  		
+1. :x:疯狂的外星人 (2019),2019年5月 
+1. 大侦探皮卡丘 Pokémon Detective Pikachu (2019),2019年5月
 1. 飞驰人生 (2019),2019年4月    
 1. 荒岛余生 Cast Away (2000) [美],2019年4月
 1. 复仇者联盟4：终局之战 Avengers: Endgame (2019) [美],2019年4月
