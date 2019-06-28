@@ -48,7 +48,7 @@
 1. :x:反贪风暴3 L風暴 (2018),2019年3月
 1. 惊奇队长 Captain Marvel (2019) [美]，2019年3月
 1. 暖暖内含光 Eternal Sunshine of the Spotless Mind (2004) [美]，2019年3月
-1. 逃学威龙3之龙过鸡年 逃學威龍III之龍過雞年 (1993),2019年3月
+1. 逃学威龙3之龙过鸡年 逃學威龍III之龍過雞年 (1993), 2019年3月
 1. 逃学威龙2 逃學威龍2 (1992)，2019年3月(Xth)
 1. 逃学威龙 逃學威龍 (1991), 2019年2月(Xth)
 1. :+1:虎口脱险 La grande vadrouille (1966) [法]，2019年2月
@@ -187,6 +187,7 @@
 ## 电视剧
     Name-ReleaseDate-Nation-WatchDate-(Time)
     
+1. :+1:琅琊榜 (2015)，2018年4月
 1. 风骚律师 第二季 Better Call Saul Season 2 (2016) [美]，2018年3月
 1. 风骚律师 第一季 Better Call Saul Season 1 (2015) [美]，2018年1月
 1. 马男波杰克 第五季 BoJack Horseman Season 5 (2018) [美]，2017年10月
