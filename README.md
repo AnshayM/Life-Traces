@@ -1,4 +1,4 @@
-下面是一些我读过的书，和看过的影视作品。时间均为阅读或、观影完成时间，未完成的不计其中。
+下面是一些我读过的书，和看过的影视作品。时间均为阅读或观影完成时间，未完成的不计其中。
 
 （注：:+1: 表示推荐，:+1::+1: 表示强烈推荐，:x: 表示差评）
 
@@ -37,6 +37,8 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 爱宠大机密2 The Secret Life of Pets 2 (2019) [美], 2019年7月
+1. 蜘蛛侠：英雄归来 Spider-Man: Homecoming (2017) [美], 2019年7月
 1. 蜘蛛侠：英雄远征 Spider-Man: Far From Home‎ (2019) [美], 2019年6月
 1. 活着 (1994), 2019年6月
 1. 千与千寻 千と千尋の神隠し (2001) [日], 2019年6月
@@ -190,11 +192,12 @@
 ## 电视剧
     Name-ReleaseDate-Nation-WatchDate-(Time)
     
+1. :+1::+1:进击的巨人 第三季 Part.2 進撃の巨人 Season3 Part.1 (2019) [日]，2019年7月
 1. :+1:琅琊榜 (2015)，2018年4月
 1. 风骚律师 第二季 Better Call Saul Season 2 (2016) [美]，2018年3月
 1. 风骚律师 第一季 Better Call Saul Season 1 (2015) [美]，2018年1月
 1. 马男波杰克 第五季 BoJack Horseman Season 5 (2018) [美]，2017年10月
-1. 进击的巨人 第三季 Part.1 進撃の巨人 Season3 Part.1 (2018) [日]，2018年8月
+1. :+1:进击的巨人 第三季 Part.1 進撃の巨人 Season3 Part.1 (2018) [日]，2018年8月
 1. 绝命毒师 第五季 Breaking Bad Season 5 (2012) [美]，2018年8月
 1. 绝命毒师 第四季 Breaking Bad Season 4 (2011) [美]，2018年8月
 1. 绝命毒师 第三季 Breaking Bad Season 3 (2010) [美]，2018年7月
