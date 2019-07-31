@@ -37,6 +37,7 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 哪吒之魔童降世 (2019), 2019年7月
 1. 爱宠大机密2 The Secret Life of Pets 2 (2019) [美], 2019年7月
 1. 蜘蛛侠：英雄归来 Spider-Man: Homecoming (2017) [美], 2019年7月
 1. 蜘蛛侠：英雄远征 Spider-Man: Far From Home‎ (2019) [美], 2019年6月
