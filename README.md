@@ -195,6 +195,7 @@
 ## 电视剧
     Name-ReleaseDate-Nation-WatchDate-(Time)
     
+1. 鸡毛飞上天 (2017), 2019年10月
 1. :+1::+1:进击的巨人 第三季 Part.2 進撃の巨人 Season3 Part.1 (2019) [日]，2019年7月
 1. :+1:琅琊榜 (2015)，2018年4月
 1. 风骚律师 第二季 Better Call Saul Season 2 (2016) [美]，2018年3月
