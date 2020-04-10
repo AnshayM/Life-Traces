@@ -36,6 +36,8 @@
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
 
+1. 菊次郎的夏天 菊次郎の夏 (1999) [日] ,2020年4月
+1. 铁甲钢拳 Real Steel (2011) [美] ,2020年4月
 1. 登堂入室 Dans la maison (2012) [法] ,2020年3月
 1. 续命之徒：绝命毒师电影 El Camino: A Breaking Bad Movie (2019) [美] ,2020年3月
 1. 寒战2 寒戰II (2016) ,2020年3月
