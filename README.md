@@ -35,6 +35,9 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 千钧一发 Gattaca (1997) [美], 2020年六月
+1. 异次元骇客 The Thirteenth Floor (1999) [美], 2020年六月
+1. 黑金 (1997), 2020年六月
 1. 一个人的武林 (2014), 2020年六月
 1. 师父 (2015) (2014), 2020年六月
 1. 新仙鹤神针 新仙鶴神針 (1993), 2020年六月
@@ -233,6 +236,8 @@
 
 ## 电视剧
     Name-ReleaseDate-Nation-WatchDate-(Time)
+1. 马男波杰克 第六季 BoJack Horseman Season 6 (2019)[美], 2020年6月
+1. 瑞克和莫蒂 第四季 Rick and Morty Season 4 (2019)[美], 2020年6月
 1. 风骚律师 第四季 Better Call Saul Season 4 (2018)[美], 2020年3月
 1. 风骚律师 第三季 Better Call Saul Season 3 (2017)[美], 2020年3月
 1. 我的三体之罗辑传 (2016), 2020年3月
