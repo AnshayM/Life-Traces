@@ -36,6 +36,11 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 激情沸点 The Hot Spot (1990) [美], 2020年七月
+1. 极限特工3：终极回归 xXx: Return of Xander Cage (2017)  [美], 2020年七月
+1. 极限特工2 xXx: State of the Union (2005)  [美], 2020年七月
+1. 极限特工 xXx (2002) [美], 2020年七月
+1. 时空恋旅人 About Time (2013) [美], 2020年七月
 1. 杀手：代号47 Hitman (2007) [美], 2020年六月
 1. 时间规划局 In Time (2011) [美], 2020年六月
 1. 千钧一发 Gattaca (1997) [美], 2020年六月
