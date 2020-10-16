@@ -35,7 +35,11 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
-
+1. 爱尔兰人 The Irishman (2019) ,2020年10月
+1. 姜子牙 ,2020年10月
+1. 明日边缘 Edge of Tomorrow (2014) ,2020年9月（2nd）
+1. 利刃出鞘 Knives Out (2019) ,2020年9月
+1. 信条 Tenet (2020) [美] ,2020年9月
 1. 菊次郎的夏天 菊次郎の夏 (1999) [日] ,2020年4月
 1. 铁甲钢拳 Real Steel (2011) [美] ,2020年4月
 1. 登堂入室 Dans la maison (2012) [法] ,2020年3月
@@ -221,6 +225,7 @@
 
 ## 电视剧
     Name-ReleaseDate-Nation-WatchDate-(Time)
+1. 隐秘的角落, 2020年9月
 1. 风骚律师 第四季 Better Call Saul Season 4 (2018)[美], 2020年3月
 1. 风骚律师 第三季 Better Call Saul Season 3 (2017)[美], 2020年3月
 1. 我的三体之罗辑传 (2016), 2020年3月
