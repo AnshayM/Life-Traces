@@ -36,6 +36,8 @@
 # 电影
     Name-ReleaseDate-Nation-WatchDate-(Time)
 
+1. 黑社会 黑社會 (2005) ,2020年11月
+1. 黑社会2：以和为贵 黑社會以和為貴 (2006) ,2020年10月
 1. 爱尔兰人 The Irishman (2019) ,2020年10月
 1. 姜子牙 ,2020年10月
 1. 明日边缘 Edge of Tomorrow (2014) ,2020年9月（2nd）
